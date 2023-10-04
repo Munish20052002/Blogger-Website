@@ -1,4 +1,4 @@
-# Blogger-Website - Built for XenonStack
+# Blooger-Website - Built for XenonStack
 
 Design and developed a blogging website using HTML, CSS, BOOTSTRAP AND JAVASCRIPT. Incorporated a user-friendly navigation system and modern UI design to enhance the user experience and readability of the blog posts. Worked on the Responsiveness ofthe website under various screen sizes.
 #
