@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Blogger-Website - Built for XenonStack
 
-You can use the [editor on GitHub](https://github.com/DarshanSaraswat/IPD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Design and developed a blogging website using HTML, CSS, BOOTSTRAP AND JAVASCRIPT. Incorporated a user-friendly navigation system and modern UI design to enhance the user experience and readability of the blog posts. Worked on the Responsiveness ofthe website under various screen sizes.
+#
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##### [Desktop]
+![image](https://github.com/Munish20052002/Blogger-Website/assets/141336485/3b990328-8c81-4df2-bd68-b18bdf8b6e81)
+![image](https://github.com/Munish20052002/Blogger-Website/assets/141336485/d7a4c3d1-7bcc-49d1-ba99-8225c4ff21a9)
+![image](https://github.com/Munish20052002/Blogger-Website/assets/141336485/78c5d4e5-3e34-4455-aa96-015df2ffcbbf)
 
-### Markdown
+##### [Mobile]
+![image](https://github.com/Munish20052002/Blogger-Website/assets/141336485/1096f981-1d65-4136-8df4-a76985ff74ee)
+![image](https://github.com/Munish20052002/Blogger-Website/assets/141336485/f26270c0-8098-411e-b857-015d3af50839)
+![image](https://github.com/Munish20052002/Blogger-Website/assets/141336485/ed7e9942-dc76-4497-8677-4137ea784dd7)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DarshanSaraswat/IPD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## ToDo
+- [x] Home 
+- [x] Category
+- [x] About us
+- [x] Contact Us
